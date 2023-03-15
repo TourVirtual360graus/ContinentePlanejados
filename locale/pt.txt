@@ -1,0 +1,95 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=5548984224819&text=Ol%C3%A1%2C+estou+no+site+da+Continente+Planejados..+gostaria+de+solicitar+contato%2C+obrigado%28a%29.&type=phone_number&app_absent=0
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=5548984224819&text=Ol%C3%A1%2C+estou+no+site+da+Continente+Planejados..+gostaria+de+solicitar+contato%2C+obrigado%28a%29.&type=phone_number&app_absent=0
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=5548984224819&text=Ol%C3%A1%2C+estou+no+site+da+Continente+Planejados..+gostaria+de+solicitar+contato%2C+obrigado%28a%29.&type=phone_number&app_absent=0
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=5548984224819&text=Ol%C3%A1%2C+estou+no+site+da+Continente+Planejados..+gostaria+de+solicitar+contato%2C+obrigado%28a%29.&type=phone_number&app_absent=0
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://continenteplanejados.com.br/
+LinkBehaviour_5AE78AB1_4B9C_B37E_41B4_FA5671ED0C56.source = https://continenteplanejados.com.br/
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CRrShNB9b9q5EBE/review
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CRrShNB9b9q5EBE/review
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/continenteplanejados
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/continenteplanejados
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Continente+Ambientes+Planejados/@-27.5890057,-48.5954624,15z/data=!4m6!3m5!1s0x952737e8ebaaadd1:0xb9da6f7dd084d21a!8m2!3d-27.5890057!4d-48.5954624!16s%2Fg%2F1q67tqbk7
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Continente+Ambientes+Planejados/@-27.5890057,-48.5954624,15z/data=!4m6!3m5!1s0x952737e8ebaaadd1:0xb9da6f7dd084d21a!8m2!3d-27.5890057!4d-48.5954624!16s%2Fg%2F1q67tqbk7
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/continente.planejados/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/continente.planejados/
+
+## Media
+
+### Audio
+audio_F0B2A009_E667_372F_41EC_5F5ACD3A4214.path = null
+audio_F092DFB0_E669_097C_41E3_F35664954E98.path = null
+audiores_F3E3EB62_E699_091C_41CE_45D1082D7EB6.mp3Url = media/audio_F092DFB0_E669_097C_41E3_F35664954E98_pt.mp3
+audiores_F3E3EB62_E699_091C_41CE_45D1082D7EB6.oggUrl = media/audio_F092DFB0_E669_097C_41E3_F35664954E98_pt.ogg
+audiores_F0184D44_E699_0925_41E8_6FD72A5D518F.mp3Url = media/audio_F0B2A009_E667_372F_41EC_5F5ACD3A4214_pt.mp3
+audiores_F0184D44_E699_0925_41E8_6FD72A5D518F.oggUrl = media/audio_F0B2A009_E667_372F_41EC_5F5ACD3A4214_pt.ogg
+
+### Title
+panorama_E963D9BD_E5AB_0967_41BB_943A08DCC7B4.label = 1-DeNoiseAI-standard
+panorama_EEAA3047_E5A9_3723_41E7_82B2E03CD222.label = 10-DeNoiseAI-standard
+panorama_EEAA179F_E5A9_3923_41D6_4DD3D2393C76.label = 11-DeNoiseAI-standard
+panorama_EEAA4F35_E5A9_0967_41E5_8A16544D3EF4.label = 12-DeNoiseAI-standard
+panorama_EEAA770B_E5A9_192C_41D4_25B15A2243EA.label = 13-DeNoiseAI-standard
+panorama_EEAAAE1F_E5A9_0B23_41E5_E2E19C07568D.label = 14-DeNoiseAI-standard
+panorama_EEAA75B2_E5A9_797D_41D5_1779757A2A8C.label = 15-DeNoiseAI-standard
+panorama_EEAE622B_E5AB_3B6C_41E2_CBE93BAB30B5.label = 2-DeNoiseAI-standard
+panorama_EEAA8962_E5AB_091D_41E6_B40EA88AD024.label = 3-DeNoiseAI-standard
+panorama_EEAA3148_E5AB_192D_41C2_3048F70C1024.label = 4-DeNoiseAI-standard
+panorama_EEAA599C_E5AB_0925_41E4_87D14FCB6D8E.label = 5-DeNoiseAI-standard
+panorama_EEABB17E_E5AA_F9E5_41E8_6A69BB03D21F.label = 6-DeNoiseAI-standard
+panorama_EEABF8F6_E5A9_08E5_41E9_946CFAF86F9C.label = 7-DeNoiseAI-standard
+panorama_EEABE139_E5A9_196F_41D2_16A2FBF0EDB1.label = 8-DeNoiseAI-standard
+panorama_EEABF8F6_E5A9_08E4_41E8_70CC07C1A41A.label = 9-DeNoiseAI-standard
+panorama_EEAA3CC5_E5A9_0F27_41BD_CC8F660D7999.label = aerea pronta sem noise 360-DeNoiseAI-standard
+panorama_EEAAD5B0_E5A9_197C_41DF_0AADEF4998BC.label = fachada sem noise-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969.path = null
+Image_7E419219_7403_925D_41AB_E7237CB71057.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969.url = skin/Image_5AE10AB1_4B9C_B37E_41D0_33D18F5F7969_pt.png
+Image_7E419219_7403_925D_41AB_E7237CB71057.url = skin/Image_7E419219_7403_925D_41AB_E7237CB71057_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça Um Visita ao Nosso Showroom
+
+### Title
+tour.name = Continente Planejados
