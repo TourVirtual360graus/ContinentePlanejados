@@ -103,7 +103,7 @@ IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
 ## Tour
 
 ### Description
-tour.description = Faça Um Visita ao Nosso Showroom
+tour.description = Faça Uma Visita ao Nosso Showroom
 
 ### Title
 tour.name = Continente Planejados
